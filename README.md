@@ -12,7 +12,7 @@
   <img src="./assets/project-passripple.svg?v=2" width="100%" alt="PassRipple — fraud-proof event ticketing for Costa Rica" />
 </a>
 <br/><br/>
-<a href="https://dev-portfolio-research-itrg.vercel.app/#projects">
+<a href="https://github.com/JAbarca74/Dr.-Semeraro-Opticians">
   <img src="./assets/project-optica.svg?v=2" width="100%" alt="Óptica Dr. Semeraro — optical clinic management system" />
 </a>
 <br/><br/>
