@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: light)" srcset="./assets/section-projects-light.svg?v=2" /><img src="./assets/section-projects.svg?v=2" width="100%" alt="Featured Projects" /></picture>
 
-<a href="https://dev-portfolio-research-itrg.vercel.app/#projects">
+<a href="https://github.com/JAbarca74/PassRipple">
   <img src="./assets/project-passripple.svg?v=2" width="100%" alt="PassRipple — fraud-proof event ticketing for Costa Rica" />
 </a>
 <br/><br/>
