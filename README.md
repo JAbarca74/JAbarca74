@@ -16,7 +16,7 @@
   <img src="./assets/project-optica.svg?v=2" width="100%" alt="Óptica Dr. Semeraro — optical clinic management system" />
 </a>
 <br/><br/>
-<a href="https://dev-portfolio-research-itrg.vercel.app/#projects">
+<a href="https://github.com/JAbarca74/stride">
   <img src="./assets/project-stride.svg?v=2" width="100%" alt="STRIDE — systematic trend-following trading system" />
 </a>
 <br/><br/>
