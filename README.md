@@ -23,6 +23,10 @@
 <a href="https://github.com/keylorpineda/healthycropping">
   <img src="./assets/project-healthycropping.svg?v=2" width="100%" alt="HealthyCropping — offline crop disease detection for coffee, cacao and banana" />
 </a>
+<br/><br/>
+<a href="https://github.com/keylorpineda/ColonQuest">
+  <img src="./assets/project-colonquest.svg?v=1" width="100%" alt="ColonQuest — personal-finance simulator built for the Meta Global AI Developer Hackathon 2026" />
+</a>
 
 <br/><br/>
 
